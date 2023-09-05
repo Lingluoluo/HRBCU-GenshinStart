@@ -15,10 +15,10 @@
   function createHtmlCssString() {
     let html = `
       <div class="content" id="startup_company">
-      <img src="https://yuluoluo.top/genshin/company.jpg" />
+      <img src="https://yuluoxk.cn/genshin/company.jpg" />
   </div>
   <div class="content" id="startup_game">
-      <img src="https://yuluoluo.top/genshin/game.jpg" />
+      <img src="https://yuluoxk.cn/genshin/game.jpg" />
       <div id="startup_game_g">
           抵制不良游戏, 拒绝盗版游戏, 注意自我保护, 谨防受骗上当, 适度游戏益脑, 沉迷游戏伤身, 合理安排时间, 享受健康生活。<br>
           审批文号: 国新出审[2020]1407号 ISBN 978-7-498-07852-0 出版单位: 华东师范大学电子音像出版社有限公司<br>
@@ -29,7 +29,7 @@
   <div class="content" id="startup_warning">
       <div id="startup_warning_main">
           <h1>警告: 游戏前详阅</h1>
-          <img src="https://yuluoluo.top/genshin/warning_line.jpg" />
+          <img src="https://yuluoxk.cn/genshin/warning_line.jpg" />
           <p>
               有极少数的人在观看一些视觉影像时可能会突然癫痫发作, 这些影像包括电子游戏中出现的闪光或图形。 在<br>
               进行电子游戏时, 这些人可能会出现癫痫症状。 甚至连不具有癫痫史的人, 也可能在进行电子游戏时, 出现类<br>
@@ -346,12 +346,12 @@ html, body {
   var style = document.createElement("style");
   style.textContent = `
 body {
-    cursor: url(https://kanosaikou.cn/cursor.ico), auto;
+    cursor: url(https://yuluoxk.cn/genshin/cursor.ico), auto;
     }
 
 @font-face {
     font-family: "HYWenHei 85W";
-    src: url("https://kanosaikou.cn/getfont.php") format("truetype");
+    src: url("https://yuluoxk.cn/genshin/genshin.ttf");
     }
 /* 游客登录 */
 #fk-login {
